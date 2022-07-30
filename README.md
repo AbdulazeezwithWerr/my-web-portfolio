@@ -1,3 +1,4 @@
 # My First Portfolio Site
 - Сделано в React js
-Демо версию можете
+- Загружена с помощью CodeSanBox
+## Демо версию можете взять [здесь](https://kf54lt-3000.preview.csb.app/)
